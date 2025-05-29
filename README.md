@@ -89,4 +89,4 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 Se você encontrar algum problema ou tiver dúvidas, por favor:
 
 1. Abra uma issue no GitHub
-2. Entre em contato através do email: seu-email@exemplo.com
+2. Entre em contato através do email: izidorio@bento.dev.br
